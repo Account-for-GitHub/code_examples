@@ -1,4 +1,5 @@
 <?php
+//Check array on recursive links
 
 $array = array(1, 2, 3);
 $array[3] = $array;
